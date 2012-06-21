@@ -6,4 +6,4 @@ Author: Mecus
 Author URI: http://mecus.es
 Tags: blue, green, fixed width, two columns, widgets, clean
 
-  
+This is a HARDCODED version.
